@@ -13,7 +13,7 @@ const Footer = () => {
 				<a href="https://github.com/Harry3167">
 					<AiFillGithub className="text-2xl text-gray-800" />
 				</a>
-				<a href="https://www.linkedin.com/in/harrison-angonga/">
+				<a href="https://www.linkedin.com/in/harrisonangonga/">
 					{" "}
 					<AiOutlineLinkedin className="text-2xl text-gray-800" />
 				</a>
